@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin: 50px auto;
+  width: 75%;
+}
+.row {    margin-top: 10px !important;}
+.card-img, .card-img-bottom, .card-img-top {
+  height: 400px;
+}
+.dv-star-rating {font-size: 2rem;}
+.input-group {width: 70% !important;}
+
+.navbar-expand, .navbar  {
+      display: block;
+   justify-content: center !important;
+}
+.row>* {
+  display: flex;
+  margin: 20px auto;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: space-between;
+}
+
